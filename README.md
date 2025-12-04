@@ -65,7 +65,7 @@ A video-streaming app using React, Node.js/Express, and a custom REST backend.
 ## 📊 GitHub Stats  
 <div align="center">
   
-![Saba's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saba-n20&show_icons=true&theme=react)
+![Saba's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saba-n20&show_icons=true&theme=default)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saba-n20&layout=compact&theme=react)
 
