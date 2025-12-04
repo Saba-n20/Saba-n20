@@ -67,7 +67,7 @@ A video-streaming app using React, Node.js/Express, and a custom REST backend.
   
 ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saba-n20&theme=default)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saba-n20&layout=compact&theme=react)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Saba-n20&theme=default)
 
 </div>
 
