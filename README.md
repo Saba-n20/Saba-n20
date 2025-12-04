@@ -4,7 +4,7 @@
 
 <!-- Small Rounded Avatar -->
 <p align="center">
-  <img src="../Saba-n20/public/images/Saba.webp" width="140" style="border-radius: 50%;"/>
+  <img src="./Saba.webp" alt="Saba" width="200" />
 </p>
 
 ---
