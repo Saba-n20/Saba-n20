@@ -1,21 +1,30 @@
 <!-- Header Title -->
 <h1 align="center">Hi, I'm Saba 👋</h1>
-<h3 align="center">Front-End Developer | Junior Full-Stack Developer</h3>
+<h3 align="center">Software Developer | Full-Stack Web Applications</h3>
 
-<!-- Small Rounded Avatar -->
+<!-- Avatar -->
 <p align="center">
-  <img src="./Saba.webp" alt="Saba" width="200" />
+  <img src="./Saba.webp" alt="Saba Namdari" width="200" />
 </p>
 
 ---
 
 ## 🚀 About Me  
-A Front-End Developer passionate about building **clean, fast, and accessible** digital experiences.  
-I love crafting smooth UI, solving real user problems, and turning ideas into working products.
 
-🌟 Strong in: React, UI development, responsive design  
-🌱 Growing in: Node.js, APIs, full-stack problem-solving  
-🎯 Goal: Build meaningful apps with impact & great UX  
+I’m a Software Developer with hands-on experience building production-ready
+web applications across the front end and back end. I enjoy translating
+real-world requirements into clean, maintainable code and delivering
+user-focused features that balance usability, performance, and scalability.
+
+With a strong foundation in modern JavaScript and React, I’ve worked on
+full-stack projects involving APIs, data-driven UI, and collaborative Agile
+workflows. I’m comfortable owning features end to end and working closely
+with designers, product stakeholders, and other developers to ship meaningful
+software.
+
+🌟 Strengths: React, modern UI architecture, reusable components, accessibility  
+🌱 Growing in: Backend systems, APIs, data workflows, full-stack problem-solving  
+🎯 Goal: Build impactful software products that solve real problems and scale well  
 
 ---
 
@@ -43,29 +52,48 @@ I love crafting smooth UI, solving real user problems, and turning ideas into wo
 
 ## 📌 Featured Projects
 
-### **🫶 PenPal Murphy — Charity Platform**
-A full-stack Next.js platform enabling child sponsorship, messaging, and mobile-first UX.  
-🔗 [GitHub Repository](https://github.com/Saba-n20/Penpal-Murphy)
+### ⭐ **PenPal — Full-Stack Web Application (Murphy Charitable Foundation)**
+
+A production full-stack web application built for a charitable organization,
+focused on supporting child sponsorship and meaningful user connections.
+
+I contributed to designing and delivering responsive, user-facing features,
+building reusable UI components, and implementing filtering and discovery
+workflows to improve scalability and overall user experience. The project was
+developed in a collaborative Agile environment with real stakeholders, code
+reviews, and production-level requirements.
+
+🔹 Focus areas: Front-end architecture, API integration, accessibility,
+responsive design, maintainable UI systems  
+🔗 GitHub Repository: https://github.com/Saba-n20/Penpal-Murphy
 
 ---
 
-### **🩺 VitalPathway — Full-Stack Healthcare App**
-React front-end with dashboards, appointments, and REST API integration.  
-🔗 [GitHub Repository](https://github.com/Saba-n20/vitalpathway)
+### 🩺 **VitalPathway — Healthcare Management App**
+
+A full-stack healthcare application featuring dashboards, appointment
+workflows, and REST API integration. Focused on translating complex healthcare
+requirements into clear, user-friendly interfaces.
+
+🔗 GitHub Repository: https://github.com/Saba-n20/vitalpathway
 
 ---
 
-### **🎬 BrainFlix — Video Platform**
-A video-streaming app using React, Node.js/Express, and a custom REST backend.  
-🔗 [Frontend Repo](https://github.com/Saba-n20/BrainFlix-Front-end)  
-🔗 [Backend Repo](https://github.com/Saba-n20/BrainFlix-API)
+### 🎬 **BrainFlix — Video Platform**
+
+A video streaming platform built with React and a custom Node.js/Express REST
+API, supporting dynamic content, routing, and user interactions.
+
+🔗 Frontend Repo: https://github.com/Saba-n20/BrainFlix-Front-end  
+🔗 Backend Repo: https://github.com/Saba-n20/BrainFlix-API  
 
 ---
 
 ## 📊 GitHub Stats  
+
 <div align="center">
-  
-![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saba-n20&theme=default)
+
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saba-n20&theme=default)
 
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Saba-n20&theme=default)
 
@@ -74,6 +102,7 @@ A video-streaming app using React, Node.js/Express, and a custom REST backend.
 ---
 
 ## 📫 Contact Me  
+
 📧 Email: **sabanamdari20@gmail.com**  
 🔗 LinkedIn: [linkedin.com/in/saba-namdari](https://linkedin.com/in/saba-namdari)
 
