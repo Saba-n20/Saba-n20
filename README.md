@@ -71,10 +71,21 @@ responsive design, maintainable UI systems
 
 ### 🩺 **VitalPathway — Healthcare Management App**
 
-A full-stack healthcare application featuring dashboards, appointment
-workflows, and REST API integration. Focused on translating complex healthcare
-requirements into clear, user-friendly interfaces.
+A full-stack healthcare web application designed to streamline patient
+management, appointment scheduling, and provider workflows.
 
+I contributed to developing responsive, user-facing features using modern
+React patterns, building reusable UI components, and implementing
+data-driven interfaces connected to backend APIs. The project focused on
+translating complex healthcare workflows into clear, intuitive user
+experiences while maintaining accessibility and performance across devices.
+
+Developed in a collaborative, Agile team environment, the project involved
+end-to-end feature delivery, UI/UX ownership, and close coordination with
+design and backend contributors.
+
+🔹 Focus areas: Responsive UI development, API integration, component
+architecture, accessibility, and maintainable front-end systems
 🔗 GitHub Repository: https://github.com/Saba-n20/vitalpathway
 
 ---
